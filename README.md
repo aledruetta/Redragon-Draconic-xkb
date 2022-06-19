@@ -2,6 +2,8 @@
 
 ## Redragon Draconic xkb remap with spanish and portuguese keys
 
+![Keyboard Layout](keyboard_layout.png)
+
 ```bash
 $ sudo cp drac /usr/share/X11/xkb/symbols
 $ sudo cp evdev.xml.custom /usr/share/X11/xkb/rules/evdev.xml
