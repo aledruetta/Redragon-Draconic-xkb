@@ -5,11 +5,9 @@ xkb_symbols "basic" {
 
     name[Group1]= "Redragon Draconic (US with dead keys)";
 
-    key <TLDE> {	[     dead_grave,	dead_tilde	]	};
     key <AE01> {	[	  1,	exclam, exclamdown 		]	};
-    key <AE06> {	[	  6,	dead_circumflex	]	};
 
-    key <AC10> {	[ semicolon,	colon,	dead_tilde		]	};
+    key <AC10> {	[ semicolon,	colon,	dead_tilde, dead_circumflex		]	};
     key <AC11> {	[ apostrophe,	quotedbl,   dead_acute, dead_grave	]	};
 
     key <AB03> {	[	  c,	C,  ccedilla,   Ccedilla		]	};
