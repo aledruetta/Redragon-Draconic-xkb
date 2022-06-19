@@ -1,6 +1,6 @@
 # xkb
 
-## Redragon Draconic xkb remap with spanish and portuguese keys
+## Redragon Draconic xkb remap with spanish and portuguese keys (Ubuntu 20.04 with Xorg display manager)
 
 ![Keyboard Layout](keyboard_layout.png)
 
