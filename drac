@@ -8,7 +8,7 @@ xkb_symbols "basic" {
     key <AE01> {	[	  1,	exclam, exclamdown 		]	};
 
     key <AC10> {	[ semicolon,	colon,	dead_tilde, dead_circumflex		]	};
-    key <AC11> {	[ apostrophe,	quotedbl,   dead_acute, dead_grave	]	};
+    key <AC11> {	[ dead_acute,	quotedbl,   apostrophe, dead_grave	]	};
 
     key <AB03> {	[	  c,	C,  ccedilla,   Ccedilla		]	};
     key <AB06> {	[	  n,	N,  ntilde, Ntilde		]	};
