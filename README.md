@@ -5,6 +5,11 @@
 ![Keyboard Layout](keyboard_layout.png)
 
 ```bash
+$ sudo cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.bak
+$ sudo cp /usr/share/X11/xkb/rules/evdev.lst /usr/share/X11/xkb/rules/evdev.lst.bak
+```
+
+```bash
 $ sudo cp drac /usr/share/X11/xkb/symbols
 $ sudo cp evdev.xml.custom /usr/share/X11/xkb/rules/evdev.xml
 $ sudo cp evdev.lst.custom /usr/share/X11/xkb/rules/evdev.lst
